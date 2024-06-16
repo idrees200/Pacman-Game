@@ -58,3 +58,4 @@ This project implements a classic arcade game, PACMAN, using C++ with a focus on
 ## Conclusion
 
 The PACMAN game project combines classic arcade gameplay with modern programming techniques, making it both nostalgic and appealing to players of all ages. It demonstrates proficiency in OOP concepts, file handling, and graphical user interface design, providing a comprehensive learning experience for computer science students.
+![Screenshot (264)](https://github.com/idrees200/Pacman-Game/assets/113856749/e60429d6-51da-4c76-8516-9371d2b05783)
